@@ -192,7 +192,7 @@ La página de pago es estándar, te pide los datos básicos de tarjeta.
 
 <img src="img/5.png">
 
-Si en la página principal pulsamos el botón de restaurante se abrirá la página del restaurante con la carta que ofrece. Si el producto es vegano será indicado con un icono, igual para pruductos sin gluten. Todas las páginas tienen un icono para volver a la página anterior.
+Si en la página principal pulsamos el botón de restaurante se abrirá la página del restaurante con la carta que ofrece. Si el producto es vegano será indicado con un icono, igual para pruductos sin gluten. Todas las páginas tienen un icono para volver a la página anterior. Para estudiar la usabildad del prototipo : https://cloud.protopie.io/p/7771d81c81?touchHint=true&ui=true&scaleToFit=true&cursorType=touch&mockup=true&bgColor=%23F5F5F5&playSpeed=1&playerAppPopup=true
 
 
 ![Método UX](img/caseStudy.png) 3.e ¿My UX-Case Study?
