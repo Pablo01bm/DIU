@@ -192,7 +192,7 @@ La página de pago es estándar, te pide los datos básicos de tarjeta.
 
 <img src="img/5.png">
 
-Si en la página principal pulsamos el botón de restaurante se abrirá la página del restaurante con la carta que ofrece. Si el producto es vegano será indicado con un icono, igual para pruductos sin gluten. Todas las páginas tienen un icono para volver a la página anterior. Para estudiar la usabildad del prototipo : https://cloud.protopie.io/p/7771d81c81?touchHint=true&ui=true&scaleToFit=true&cursorType=touch&mockup=true&bgColor=%23F5F5F5&playSpeed=1&playerAppPopup=true
+Si en la página principal pulsamos el botón de restaurante se abrirá la página del restaurante con la carta que ofrece. Si el producto es vegano será indicado con un icono, igual para pruductos sin gluten. Todas las páginas tienen un icono para volver a la página anterior.
 
 
 ![Método UX](img/caseStudy.png) 3.e ¿My UX-Case Study?
@@ -209,33 +209,39 @@ Si en la página principal pulsamos el botón de restaurante se abrirá la pági
 ![Método UX](img/ABtesting.png) 4.a Caso asignado
 ----
 
+Nuestro caso asignado corresponde al grupo DIU2.Unknown cuyo microsite consiste en potenciar la musica en directo que se ofrece en el hostal, proponiendo un lugar en el que la música sirva como desconexión a los problemas del día a día. Todo esto servirá para captar la atención de los amantes de la música y de los artistas que se quieran dar a conocer.
 
->>> Breve descripción del caso asignado con enlace a  su repositorio Github
+[GitHub](https://github.com/luciasalamanca/DIU)
 
 
 ![Método UX](img/usability-testing.png) 4.b User Testing
 ----
 
->>> Seleccione 4 personas ficticias. Exprese las ideas de posibles situaciones conflictivas de esa persona en las propuestas evaluadas. Asigne dos a Caso A y 2 al caso B
+>>> Usuario 1A(4,5,6)-Juan tiene 40 años, tiene discapacidad (silla de ruedas) y se dedica a la fotografía de forma profesional, pero aunque tiene un trabajo que le apasiona, muchas veces su discapacidad le limita en muchos aspectos de su vida, por tanto ocasionalmente está triste. Con su alto uso de aparatos electrónicos no tendrá problemas a la hora de usar la app, además espera encontrar algún evento de comedia que le ayude a animarse.
+
+Usuario 2A(3,1,3)-Amelia tiene 20 años y es universitaria, al estudiar la carrera de sus sueños y al tener bastantes amistades es una mujer bastante feliz en general en su vida. Al crecer en la generación de la tecnología no le supondrá ningún problema navegar por la app. Con esta app lo que busca es pasar un buen rato con sus amigos, ya sea comiendo o asistiendo a algún evento.
+
+Usuario 1B(2,4,1)- Pedro tiene 31 y es profesor de instituto e imparte Matemáticas. Siempre suele estar bastante estresado debido al trabajo pero ahora más con el nacimiento de su primer hijo. En general no va a tener problemas con la app, puesto que tiene experiencia usando tanto móviles como ordenadores. Espera encontrar en la web o app algún evento para entretener a su hijo y así poder él también relajarse un poco.
+
+Usuario 2B(5,6,4)- Francisco tiene 46, está casado y trabaja en una oficina de contable. Le encanta ir de senderismo y andar en su tiempo libre o en fines de semana. Se encuentra sorprendido al descubrir un lugar llamado “Carlota Braum” cuando andaba y ha visto que tienen una app. Tendrá algunos problemas al usarla debido a que con el móvil no tiene tanta habilidad como con el ordenador. Espera poder encontrar alguna forma de reservar mesa en algún evento musical después de hacer senderismo el sábado.
+
  
 
 | Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | TestA/B
 | ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ----
-| User1's name  | H / 18   | Estudiante  | Media       | Introvertido | Web.       | A 
-| User2's name  | H / 18   | Estudiante  | Media       | Timido       | Web        | A 
-| User3's name  | M / 35   | Abogado     | Baja        | Emocional    | móvil      | B 
-| User4's name  | H / 18   | Estudiante  | Media       | Racional     | Web        | B 
+| Juan  | H / 40   | Fotógrafo  | Intermedio       | Introvertido | macOS       | A 
+| Amelia  | M / 20   | Universitaria  | Alta       | Timido       | Windows        | A 
+| Pedro  | H / 31   | Profesor     | Intermedio        | Emocional    |Windows/Phone      | B 
+| Francisco  | H / 46   | Contable  | Bajo       | Racional     |Windows        | B 
 
 
 ![Método UX](img/Survey.png). 4.c Cuestionario SUS
 ----
 
->>> Usaremos el **Cuestionario SUS** para valorar la satisfacción de cada usuario con el diseño (A/B) realizado. Para ello usamos la [hoja de cálculo](https://github.com/mgea/DIU19/blob/master/Cuestionario%20SUS%20DIU.xlsx) para calcular resultados sigiendo las pautas para usar la escala SUS e interpretar los resultados
-http://usabilitygeek.com/how-to-use-the-system-usability-scale-sus-to-evaluate-the-usability-of-your-website/)
-Para más información, consultar aquí sobre la [metodología SUS](https://cui.unige.ch/isi/icle-wiki/_media/ipm:test-suschapt.pdf)
-
->>> Adjuntar captura de imagen con los resultados + Valoración personal 
-
+<img src="img/1a.png">
+<img src="img/2a.png">
+<img src="img/1b.png">
+<img src="img/2b.png">
 
 ![Método UX](img/usability-report.png) 4.d Usability Report
 ----
@@ -247,20 +253,6 @@ Para más información, consultar aquí sobre la [metodología SUS](https://cui.
 >>> Valoración personal 
 
 
->>> ## Paso 5. Evaluación de Accesibilidad  (no necesaria)
-
-
->>> ![Método UX](img/Accesibility.png)  5.a Accesibility evaluation Report 
->>>> ----
-
->>> Indica qué pretendes evaluar (de accesibilidad) sobre qué APP y qué resultados has obtenido 
-
->>> 5.a) Evaluación de la Accesibilidad (con simuladores o verificación de WACG) 
->>> 5.b) Uso de simuladores de accesibilidad 
-
->>> (uso de tabla de datos, indicar herramientas usadas) 
-
->>> 5.c Breve resumen del estudio de accesibilidad (de práctica 1) y puntos fuertes y de mejora de los criterios de accesibilidad de tu diseño propuesto en Práctica 4.
 
 
 
